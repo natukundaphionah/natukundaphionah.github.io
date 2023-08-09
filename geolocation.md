@@ -1,5 +1,5 @@
 ---
-title: LOCATION
+title: geolocation
 layout: home
 ---
 
