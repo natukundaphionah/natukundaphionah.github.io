@@ -1,6 +1,7 @@
 ---
 title: index file
 layout: home
+nav_order: 1
 ---
 
 index file
